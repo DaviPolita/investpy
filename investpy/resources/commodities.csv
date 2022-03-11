@@ -66,3 +66,10 @@ Real Time Streaming Futures Quotes,united states,8917,US Wheat,US Wheat Futures,
 Real Time Streaming Futures Quotes,united states,8918,US Corn,US Corn Futures,us-corn,USD,grains
 Real Time Streaming Futures Quotes,united states,959199,Oats,Oats Futures,oats,USD,grains
 Real Time Streaming Futures Quotes,united states,1178340,Gold GCc1,Gold Futures GCc1,gold,USD,metals
+Real Time Streaming Futures Quotes,united kingdom,996703,Steel Scrap SSCc1,Steel Scrap Futures SSCc1,steel-scrap,USD,metals
+Real Time Streaming Futures Quotes,united states,961729,Iron Ore TIOc1,Iron Ore TIOc1,iron-ore,USD,metals
+Real Time Streaming Futures Quotes,china,961743,Coking Coal DJMc1,Coking Coal DJMc1,coking-coal,CNY,metals
+Real Time Streaming Futures Quotes,united states,1057002,Natural Gas NGLNMc1,Natural Gas NGLNMc1,natural-gas,USD,energy
+Real Time Streaming Futures Quotes,united states,8849,Crude Oil TJ2,Crude Oil TJ2,crude-oil,USD,energy
+Real Time Streaming Futures Quotes,united states,8833,Brent Oil LCOK2,Brent Oil LCOK2,brent-oil,USD,energy
+Real Time Streaming Futures Quotes,united states,1178343,Silver SIc1,Silver SIc1,silver,USD,metals
